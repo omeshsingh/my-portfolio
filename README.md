@@ -2,12 +2,19 @@
 A fully responsive and animated personal portfolio website built using React, React-Bootstrap, and Animate.css.
 
 🔹 Features
+
 ✔️ Modern & Responsive Design
+
 ✔️ Interactive UI with CSS animations
+
 ✔️ Dynamic Banner Section with Rotating Text
+
 ✔️ Skills Showcase with Auto-Scrolling Carousel
+
 ✔️ Projects Section with Categorization Tabs
+
 ✔️ Contact Form with Email Functionality
+
 ✔️ Fun Facts Section for an Engaging Experience
 
 🛠 Built With
