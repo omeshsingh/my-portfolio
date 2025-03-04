@@ -43,57 +43,86 @@ personal-portfolio/
 
 🚀 Getting Started
 1️⃣ Clone This Repository
+
 sh
+
 Copy
+
 Edit
+
 git clone https://github.com/your-username/your-portfolio.git
+
 cd personal-portfolio
 
 
 2️⃣ Install Dependencies
 sh
+
 Copy
+
 Edit
+
 npm install
 
 
 3️⃣ Start the React App
+
 sh
+
 Copy
+
 Edit
+
 npm start
+
 Runs the app in development mode at http://localhost:3000.
 
 4️⃣ Start the Backend Server (For Contact Form)
 Navigate to the backend folder and run:
 
 sh
+
 Copy
+
 Edit
+
 cd backend
+
 node server.js
+
 This will start the backend at http://localhost:5000.
 
 🛠 Available Scripts
 🔹 Run Tests
+
 sh
+
 Copy
+
 Edit
+
 npm test
+
 Launches the test runner in interactive watch mode.
 
 🔹 Build for Production
+
 sh
+
 Copy
+
 Edit
+
 npm run build
+
 Creates a production-ready optimized build in the build folder.
 
 🌐 Deployment
+
 🔹 Frontend Deployment
+
 Host on Vercel, Netlify, GitHub Pages, or Firebase Hosting
-sh
-Copy
+
 Edit
 npm run build
 Upload the /build folder to your hosting platform.
