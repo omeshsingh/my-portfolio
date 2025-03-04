@@ -17,10 +17,10 @@ Animate.css (CSS Animations Library)
 React-Multi-Carousel (For Skills Section)
 React-On-Screen (For Scroll-Based Animations)
 Nodemailer (Backend) – (For sending emails via contact form)
+
+
 📂 Folder Structure
-php
-Copy
-Edit
+
 personal-portfolio/
 │── src/                   # Main React Source Code  
 │   ├── assets/            # Images & SVGs  
@@ -32,6 +32,8 @@ personal-portfolio/
 │── backend/               # Node.js Backend (Handles Emails)  
 │── package.json           # Project Dependencies  
 │── README.md              # Project Documentation  
+
+
 🚀 Getting Started
 1️⃣ Clone This Repository
 sh
@@ -39,11 +41,15 @@ Copy
 Edit
 git clone https://github.com/your-username/your-portfolio.git
 cd personal-portfolio
+
+
 2️⃣ Install Dependencies
 sh
 Copy
 Edit
 npm install
+
+
 3️⃣ Start the React App
 sh
 Copy
